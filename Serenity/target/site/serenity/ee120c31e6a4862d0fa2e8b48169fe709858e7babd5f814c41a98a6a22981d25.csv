@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Lookup a definition","Looking up the definition of 'apple'","ERROR","2015-10-07T23:05:07.407+05:30","0.0","1.16"
+"Lookup a definition","Looking up the definition of 'pear'","ERROR","2015-10-07T23:05:14.514+05:30","0.0","0.08"
